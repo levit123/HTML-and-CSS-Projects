@@ -1,0 +1,10 @@
+p {
+	background-color: blue;
+	color: white;
+	font-size: large;
+	text-align: center;
+}
+
+h1 {
+	text-shadow: 3px 3px #ff0000;
+}
